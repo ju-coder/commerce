@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "2211",
+    "commerceSuiteVersion": "2211.12",
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
@@ -204,6 +204,10 @@
                     "contextPath": "/hac"
                 },
                 {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
+                },
+                {
                     "name": "mediaweb",
                     "contextPath": "/medias"
                 },
@@ -350,6 +354,10 @@
                     "contextPath": "/hac"
                 },
                 {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
+                },
+                {
                     "name": "orbeonweb",
                     "contextPath": "/web-orbeon"
                 },
@@ -481,6 +489,10 @@
                     "contextPath": "/hac"
                 },
                 {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
+                },
+                {
                     "name": "mediaweb",
                     "contextPath": "/medias"
                 },
@@ -554,6 +566,10 @@
                 {
                     "name": "hac",
                     "contextPath": "/hac"
+                },
+                {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
                 },
                 {
                     "name": "mediaweb",
