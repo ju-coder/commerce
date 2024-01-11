@@ -216,10 +216,6 @@
                     "contextPath": "/adaptivesearchwebservices"
                 },
                 {
-                    "name": "backoffice",
-                    "contextPath": "/backoffice"
-                },
-                {
                     "name": "smartedit",
                     "contextPath": "/smartedit"
                 },
