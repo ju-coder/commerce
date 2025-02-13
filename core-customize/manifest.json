@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "2211.12",
+    "commerceSuiteVersion": "2211.33",
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
@@ -279,10 +279,6 @@
                     "contextPath": "/tomcatembeddedserver"
                 },
                 {
-                    "name": "yempty",
-                    "contextPath": "/yempty"
-                },
-                {
                     "name": "embeddedserver",
                     "contextPath": "/embeddedserver"
                 },
@@ -369,10 +365,6 @@
                 {
                     "key": "xss.filter.header.X-Frame-Options",
                     "value": ""
-                },
-                {
-                    "key": "tomcat.maxthreads",
-                    "value": "1200"
                 },
                 {
                     "key": "sop.post.url",
@@ -477,10 +469,6 @@
             ],
             "webapps": [
                 {
-                    "name": "hac",
-                    "contextPath": "/hac"
-                },
-                {
                     "name": "mediaweb",
                     "contextPath": "/medias"
                 },
@@ -493,10 +481,6 @@
                     "contextPath": "/acceleratorservices"
                 },
                 {
-                    "name": "b2bpunchout",
-                    "contextPath": "/b2bpunchout"
-                },
-                {
                     "name": "commercewebservices",
                     "contextPath": "/occ"
                 },
@@ -507,10 +491,6 @@
                 {
                     "name": "permissionswebservices",
                     "contextPath": "/permissionswebservices"
-                },
-                {
-                    "name": "ywebservices",
-                    "contextPath": "/ywebservices"
                 },
                 {
                     "name": "previewwebservices",
